@@ -4,7 +4,7 @@ public class Unit {
     protected float hp, luck;
     protected int speed, damage;
 
-    Unit(String name, float hp, float luck, int speed, int damage){
+    protected Unit(String name, float hp, float luck, int speed, int damage){
         this.name = name;
         this.hp = hp;
         this.luck = luck;

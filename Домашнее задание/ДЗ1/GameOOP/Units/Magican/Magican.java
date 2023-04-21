@@ -1,4 +1,6 @@
-package Units;
+package Units.Magican;
+
+import Units.Unit;
 
 public class Magican extends Unit{
     protected float mana;

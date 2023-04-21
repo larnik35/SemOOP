@@ -1,4 +1,5 @@
-package Units;
+package Units.Magican;
+
 public class Monk extends Magican{
 
     Monk(String name) {

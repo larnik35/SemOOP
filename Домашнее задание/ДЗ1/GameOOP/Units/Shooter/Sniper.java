@@ -1,4 +1,4 @@
-package Units;
+package Units.Shooter;
 
 public class Sniper extends Shooter {
     public Sniper(String name){

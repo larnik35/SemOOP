@@ -1,4 +1,6 @@
-package Units;
+package Units.Thief;
+
+import Units.Unit;
 
 public class Thief extends Unit {
 
