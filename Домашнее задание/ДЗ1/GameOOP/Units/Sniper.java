@@ -7,4 +7,9 @@ public class Sniper extends Shooter {
     public String getName() {
         return " Его имя " + name;
     }
+    @Override
+    public String toString() {
+        
+        return getName();
+    }
 }
